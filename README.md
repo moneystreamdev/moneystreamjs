@@ -1,0 +1,2 @@
+# moneystreamjs
+MoneyStream in browser
